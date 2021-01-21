@@ -17,3 +17,6 @@ The above articles outline an intricate web (hah!) of interactions that ultimate
 4. What is JavaScript, what is it for?
 5. What is CSS? What is HTML? How are they connected? How does JavaScript fit in here?
 6. What is the difference between webpage, website, web server, and search engine? 
+
+### Learning JavaScript
+- [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
